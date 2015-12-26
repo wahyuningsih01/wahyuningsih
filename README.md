@@ -1,0 +1,2 @@
+# wahyuningsih
+pbo_pewarisan
